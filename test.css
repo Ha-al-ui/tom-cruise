@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div.r{
+    background-color: rgb(165, 162, 162);
+   margin-top: 10px;
+   text-align: center;
+   padding-top: 5px;
+   height: 90px;
+  
+}
+div.hamza{
+  background-color: rgb(165, 162, 162);
+  text-align: left;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: white;
+}
+ul.a{
+    list-style-type: square;
+    width: 70%;
+    margin: auto;
+}
+div.alaoui{
+    background-color:rgb(165, 162, 162) ;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+ul.t{
+    padding: 25px;
+    list-style-type: none;
+}
+h3.y{
+    padding: 20px;
+    text-align: center;
+}
+h3.z{
+    padding: 20px;
+    text-align: center;
+}
+li.list{
+    text-align: justify;
+}
+div.jj{
+    background-color:rgb(165, 162, 162) ;
+    margin: 10px;
+}
+div.rr{
+    background-color: white;
+}
+div.bod
+{
+    background-color:rgb(165, 162, 162) ;
+
+}
+p.pp{
+    text-align: justify;
+}
